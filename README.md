@@ -5,7 +5,8 @@
 </p>
 
 ---
-
+## <p align="center">WEBSITE TO BE REDESIGNED (click on icon 👇)</p>
+[<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/5284bfdc-f7d9-4ee4-bcdc-78349caba4a9" />](https://www.ferrari.com/en-US)<br/>
 ## <p align="center">WHAT JUDGES LOOK FOR ???</p>
 
 - **Cinematic Hero Section**
