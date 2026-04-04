@@ -18,7 +18,7 @@
 ## RuleBook <br/>
 https://summit.gdgsu.dev/Web-Atelier.pdf
 ## Submission <img src="https://github.com/user-attachments/assets/d58179fe-ea47-440b-b6d6-703a761045f5" alt="Submission Icon" width="40"/> <br/>
-👉 [Submit Here](https://docs.google.com/forms/d/e/1FAIpQLSdLIil8VG5o7QwrDjraWgglgvEEi53mOkpKeAmggFhL_KVJ2g/viewform?usp=dialog)
+👉 [Submit Here](https://docs.google.com/forms/d/e/1FAIpQLSdLIil8VG5o7QwrDjraWgglgvEEi53mOkpKeAmggFhL_KVJ2g/viewform?usp=sharing&ouid=116252558291292979432)
 
 ---
 
